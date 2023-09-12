@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I’m Currently Learning: **Django**
 
-- 📫 How To Reach Me: **SquirrelSpirits1@Gmail.com**
+- 📫 How To Reach Me: **Squirrelspirits1@Gmail.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
