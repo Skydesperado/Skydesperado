@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skydesperado&label=Profile%20views&color=0e75b6&style=flat" alt="skydesperado" /> </p>
 
-- 🌱 I’m Currently Learning: **Django**
+- 👨🏻‍💻 I’m Currently Learning: **Django**
 
 - 📫 How To Reach Me: **SquirrelSpirits1@Gmail.com**
 
